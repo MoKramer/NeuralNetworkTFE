@@ -5,4 +5,4 @@ Neural Network with MNIST
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MoKramer/NeuralNetworkTFE/main?labpath=marvin.ipynb)
 
-### binder link optimized version (loki.h):
+### binder link optimized version (loki.ipynb):
